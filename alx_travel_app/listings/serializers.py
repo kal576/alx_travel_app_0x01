@@ -1,5 +1,5 @@
-from .models import Listing, Booking
 from rest_framework import serializers
+from .models import Listing, Booking
 
 #serializer for the Listings model
 class ListingSerializer(serializers.ModelSerializer):
