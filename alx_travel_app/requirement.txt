@@ -1,1 +1,0 @@
-this file contains all the dependencies and installed requirements for the travel app
